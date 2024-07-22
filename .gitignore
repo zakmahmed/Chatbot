@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,flask,venv
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,flask,venv
+# Created by https://www.toptal.com/developers/gitignore/api/python,venv,flask,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,flask,visualstudiocode
 
 ### Flask ###
 instance/*
@@ -290,4 +290,4 @@ pip-selfcheck.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/python,flask,venv,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/python,venv,flask,visualstudiocode
